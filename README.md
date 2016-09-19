@@ -39,15 +39,15 @@ The form for creating a new flashcard.
 
 This project will be implemented with the following technologies:
 
--React Native
--Sqlite3 database
--Webpack to bundle and serve up the various scripts.
+-[ ] React Native
+-[ ] Sqlite3 database
+-[ ] Webpack to bundle and serve up the various scripts.
 
 The architecture of the project will be as follows:
--Card class - This will be responsible for storing all the text data of a card. This will belong to a deck.
--Deck class - This will have many Cards.
--CreateCards - This will be responsible for creating new cards, possible through the use of Redux cycles.
--Redux cycle for fetching, creating, and destroying cards and decks
+-[ ] Card class - This will be responsible for storing all the text data of a card. This will belong to a deck.
+-[ ] Deck class - This will have many Cards.
+-[ ] CreateCards - This will be responsible for creating new cards, possible through the use of Redux cycles.
+-[ ] Redux cycle for fetching, creating, and destroying cards and decks
 
 Some of the technical difficulties that I foresee right now are 1) whether or not each user gets their own database or if there will have to be one central database and 2) how to deploy the MVP product.
 
