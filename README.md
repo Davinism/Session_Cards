@@ -1,3 +1,7 @@
+# The following project proposal has been changed! Please find the new and updated collaboration proposal [here][link].
+
+[link]: https://github.com/aylanismello/words
+
 # Session Cards
 
 ### Background
